@@ -1,5 +1,11 @@
 # kulineran
 
+```
+for db.json
+You can create a folder outside the kulineran folder
+like culinary-backend\db.json and run command: json-server --watch db.json
+```
+
 ## Project setup
 ```
 npm install
